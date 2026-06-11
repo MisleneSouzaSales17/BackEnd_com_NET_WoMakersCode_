@@ -1,0 +1,14 @@
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\bin\Debug\net10.0\FizzBuzzProject.exe
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\bin\Debug\net10.0\FizzBuzzProject.deps.json
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\bin\Debug\net10.0\FizzBuzzProject.runtimeconfig.json
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\bin\Debug\net10.0\FizzBuzzProject.dll
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\bin\Debug\net10.0\FizzBuzzProject.pdb
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\FizzBuzzProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\FizzBuzzProject.AssemblyInfoInputs.cache
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\FizzBuzzProject.AssemblyInfo.cs
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\FizzBuzzProject.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\FizzBuzzProject.dll
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\refint\FizzBuzzProject.dll
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\FizzBuzzProject.pdb
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\FizzBuzzProject.genruntimeconfig.cache
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\obj\Debug\net10.0\ref\FizzBuzzProject.dll

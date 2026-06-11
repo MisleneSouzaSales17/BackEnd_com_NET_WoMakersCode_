@@ -1,0 +1,14 @@
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\bin\Debug\net10.0\TestProject.exe
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\bin\Debug\net10.0\TestProject.deps.json
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\bin\Debug\net10.0\TestProject.runtimeconfig.json
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\bin\Debug\net10.0\TestProject.dll
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\bin\Debug\net10.0\TestProject.pdb
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\TestProject.AssemblyInfoInputs.cache
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\TestProject.AssemblyInfo.cs
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\TestProject.dll
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\refint\TestProject.dll
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\TestProject.pdb
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\TestProject.genruntimeconfig.cache
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\CsharpProjects\obj\Debug\net10.0\ref\TestProject.dll

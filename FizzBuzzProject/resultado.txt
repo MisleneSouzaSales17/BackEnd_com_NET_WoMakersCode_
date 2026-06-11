@@ -1,0 +1,2 @@
+C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\ProgramF.cs(5,17): warning CS7022: O ponto de entrada do programa é o código global. Ignorando o ponto de entrada 'Programf.Main()'. [C:\Visual Studio Code\BackEnd_com_NET_WoMakersCode\FizzBuzzProject\FizzBuzzProject.csproj]
+Hello, World!
